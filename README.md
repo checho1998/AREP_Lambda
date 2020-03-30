@@ -1,5 +1,10 @@
 # AREP_Lambda
 
+Este laboratorio consiste en en realizar una conexion a un servicio en AWS que dado un numero cualquiera devuelva su cuadrado.
+
+## Prerrequisitos
+
+Es necesario tener instalado Java 1.8 y Apache Maven 3.6.0
 
 ## Como Instalar y Correr el Codigo
 
