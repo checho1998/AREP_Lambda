@@ -6,7 +6,7 @@ Este laboratorio consiste en en realizar una conexion a un servicio en AWS que d
 
 El resultado se calculará con el uso de Amazon Gateway y se consumirá desde una máquina EC2 de Amazon como se evidencia en las siguientes imagenes.
 
-se puede ver que fue satisfactorio
+se puede ver que fue satisfactoria la ejecusion 
 
 ![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/test.PNG)
 
