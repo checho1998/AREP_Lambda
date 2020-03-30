@@ -2,6 +2,26 @@
 
 Este laboratorio consiste en en realizar una conexion a un servicio en AWS que dado un numero cualquiera devuelva su cuadrado.
 
+## Desarrollo
+
+El resultado se calculará con el uso de Amazon Gateway y se consumirá desde una máquina EC2 de Amazon como se evidencia en las siguientes imagenes.
+
+se puede ver que fue satisfactorio
+
+![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imagenes/testGateway.PNG)
+
+Se evidencia el trabajo del Gateway
+  
+![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imagenes/test.PNG)
+
+Se puede ver el programa funcionando y donde le pide al usuario el numero
+
+![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imagenes/demostracion.PNG)
+
+Se puede ver la respuesta de nuestro programa
+
+![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imagenes/respuesta.PNG)
+
 ## Prerrequisitos
 
 Es necesario tener instalado Java 1.8 y Apache Maven 3.6.0
