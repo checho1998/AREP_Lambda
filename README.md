@@ -8,11 +8,11 @@ El resultado se calculará con el uso de Amazon Gateway y se consumirá desde un
 
 se puede ver que fue satisfactorio
 
-![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/testGateway.PNG)
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/test.PNG)
 
 Se evidencia el trabajo del Gateway
-  
-![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/test.PNG)
+
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/testGateway.PNG)
 
 Se puede ver el programa funcionando y donde le pide al usuario el numero
 
