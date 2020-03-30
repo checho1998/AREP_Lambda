@@ -8,19 +8,19 @@ El resultado se calculará con el uso de Amazon Gateway y se consumirá desde un
 
 se puede ver que fue satisfactorio
 
-![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imag/testGateway.PNG)
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/testGateway.PNG)
 
 Se evidencia el trabajo del Gateway
   
-![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imag/test.PNG)
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/test.PNG)
 
 Se puede ver el programa funcionando y donde le pide al usuario el numero
 
-![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imag/demostracion.PNG)
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/demostracion.PNG)
 
 Se puede ver la respuesta de nuestro programa
 
-![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imag/respuesta.PNG)
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/respuesta.PNG)
 
 ## Prerrequisitos
 
