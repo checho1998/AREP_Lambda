@@ -1,6 +1,6 @@
 # AREP_Lambda
 
-Este laboratorio consiste en en realizar una conexion a un servicio en AWS que dado un numero cualquiera devuelva su cuadrado.
+Este laboratorio consiste en usar un Amazon Gateway y lambda crear un servicio que reciba un parámetro numérico y retorne el cuadrado del número.
 
 ## Desarrollo
 
