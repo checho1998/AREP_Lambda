@@ -6,21 +6,21 @@ Este laboratorio consiste en en realizar una conexion a un servicio en AWS que d
 
 El resultado se calculará con el uso de Amazon Gateway y se consumirá desde una máquina EC2 de Amazon como se evidencia en las siguientes imagenes.
 
-se puede ver que fue satisfactorio
+se puede ver que fue satisfactoria la ejecusion 
 
-![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imagenes/testGateway.PNG)
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/test.PNG)
 
 Se evidencia el trabajo del Gateway
-  
-![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imagenes/test.PNG)
+
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/testGateway.PNG)
 
 Se puede ver el programa funcionando y donde le pide al usuario el numero
 
-![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imagenes/demostracion.PNG)
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/demostracion.PNG)
 
 Se puede ver la respuesta de nuestro programa
 
-![Imagenes](https://github.com/checho1998/AREP-Patrones/blob/master/Imagenes/respuesta.PNG)
+![Imagenes](https://github.com/checho1998/AREP_Lambda/blob/master/Imag/respuesta.PNG)
 
 ## Prerrequisitos
 
