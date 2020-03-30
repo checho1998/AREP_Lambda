@@ -10,7 +10,9 @@ package com.mycompany.arep_lambda;
  * @author sergio.nunez
  */
 public class MathServices {
-    public static Integer square(Integer i){
+	
+    public static Integer square(Integer i) {
+
         return i*i;
     }
 }
